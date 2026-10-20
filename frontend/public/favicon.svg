@@ -1,0 +1,9 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="32" fill="#6366f1"/>
+  <!-- Main Sparkle -->
+  <path d="M64 24L53.8 53.8L24 64L53.8 74.2L64 104L74.2 74.2L104 64L74.2 53.8L64 24Z" fill="white"/>
+  <!-- Small Sparkle Top Left -->
+  <path d="M32 16L29.5 23.5L22 26L29.5 28.5L32 36L34.5 28.5L42 26L34.5 23.5L32 16Z" fill="white" opacity="0.8"/>
+  <!-- Small Sparkle Bottom Right -->
+  <path d="M104 96L101.5 103.5L94 106L101.5 108.5L104 116L106.5 108.5L114 106L106.5 103.5L104 96Z" fill="white" opacity="0.8"/>
+</svg>

@@ -1,0 +1,23 @@
+fastapi>=0.110.0
+langgraph>=0.2.0
+langchain-ollama>=0.1.0
+langchain-openai>=0.1.0
+langchain-core>=0.2.0
+pymupdf>=1.24.0
+uvicorn>=0.23.0
+tavily-python>=0.3.5
+ddgs>=9.14.0
+structlog>=24.1.0
+python-dotenv>=1.0.1
+pydantic>=2.6.0
+pydantic-settings>=2.2.1
+aiohttp>=3.9.0
+networkx>=3.0
+pytest>=7.0
+cryptography>=41.0.0
+markdown>=3.6
+python-multipart>=0.0.9
+# Security: XXE-safe XML parsing for arXiv API responses
+defusedxml>=0.7.1
+# Security: HTML sanitisation for report export (bleach preferred; nh3 is a fallback)
+bleach>=6.1.0
